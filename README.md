@@ -1,13 +1,23 @@
 # MLSolv-A
 A deep learning solvation model
 
-## Requirements
+## Minimum Requirements
 Tensorflow (>=2.0)
 
 [Spektral](https://graphneural.network/, "spektral") (==0.6.2, working on the recent version)
+
+[Mol2vec](https://github.com/samoturk/mol2vec, "mol2vec")
 
 Keras
 
 RDkit
 
-[Mol2vec](https://github.com/samoturk/mol2vec, "mol2vec")
+Numpy
+
+Pandas
+
+Pickle
+
+## Additional Requirements
+
+Scikit-learn
